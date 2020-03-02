@@ -1,0 +1,4 @@
+City,Country,Country_id,Sunrise,Sunset,Pressure_(hPa),Temperature_Feels_like_(F),Temperature_(F),Min_Temperature_(F),Max_Temperature_(F),Humidity_(%),Weather_Description,Wind_Speed_(miles/hr),Latitude,Longitude
+New York,US,4940,11:29:25,22:47:23,1021.0,23.36,33.19,26.01,41.0,68.0,clear sky,9.26,40.75,-74.0
+Goshen,US,4163,11:31:17,22:48:10,1020.0,23.58,29.12,24.01,36.0,68.0,clear sky,0.94,41.39,-74.33
+Schenectady,US,5137,11:31:13,22:45:31,1019.0,16.9,23.9,19.0,28.4,62.0,clear sky,2.51,42.88,-73.99
